@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../src/wrappers/simpleVoter/index.ts"],"names":[],"mappings":"AAAA,cAAc,cAAc,CAAC;AAC7B,cAAc,OAAO,CAAC;AACtB,cAAc,SAAS,CAAC","sourcesContent":["export * from \"./electorate\";\nexport * from \"./pda\";\nexport * from \"./types\";\n"]}

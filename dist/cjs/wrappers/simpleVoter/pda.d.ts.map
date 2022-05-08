@@ -1,0 +1,1 @@
+{"version":3,"file":"pda.d.ts","sourceRoot":"","sources":["../../../../src/wrappers/simpleVoter/pda.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,SAAS,EAAE,MAAM,iBAAiB,CAAC;AAI5C,eAAO,MAAM,2BAA2B,SAChC,SAAS,KACd,QAAQ,CAAC,SAAS,EAAE,MAAM,CAAC,CAK7B,CAAC;AAEF,eAAO,MAAM,sBAAsB,iBACnB,SAAS,iBACR,SAAS,KACvB,QAAQ,CAAC,SAAS,EAAE,MAAM,CAAC,CAS7B,CAAC"}
